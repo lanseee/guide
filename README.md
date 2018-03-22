@@ -14,7 +14,7 @@ This repository contains the specifications.
     - [react编码规范](react-style-guide.md) <span class="std-rec">[draft]</span>
 
 - iOS开发规范
-    - [Xcode 工程规范](xcode-project.md)
+    - [Xcode工程规范](xcode-project.md)
     - [方法命名推荐](naming-methods.md)
     - [代码结构规范](code-structure.md)
     - [代码注释规范](code-comments.md)
